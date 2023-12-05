@@ -2,7 +2,9 @@
 
 Nama Kelompok:
 Wahyu Putra Ramadhan  (5221600007)
+
 Salsabhilla Anggraeni Wardani (5221600019)
+
 Aynur Rofiqoh (5221600029)
 
 Game quiz multiplayer adalah permainan interaktif di mana beberapa pemain dapat menjawab pertanyaan yang diberikan secara bersamaan dan data hasilnya akan terekam di server. Setiap pemain biasanya memiliki tujuan untuk mencapai skor tertinggi atau mengalahkan pemain lain dalam kategori pengetahuan tertentu.
